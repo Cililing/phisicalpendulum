@@ -36,12 +36,12 @@ public class PhysicalPendulum {
 
     // Final stage is draw the pendulum and show the motion.
     // The pendulum can be drawn by plotting a line from (refx, refy) to the (x, y)
-    // and drow a small circle in (x, y).
+    // and draw a small circle in (x, y).
 
     // We will be using a recursive loop to:
     // 1) Increase time by deltaTime
     // 2) calculate alpha and (x, y)
-    // 3) drow new the pendulum in its new position (clean the screen and drow it again)
+    // 3) draw new the pendulum in its new position (clean the screen and draw it again)
 
     // </editor-fold>
 
